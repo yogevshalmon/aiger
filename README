@@ -1,3 +1,9 @@
+This repository was forked from Armin AIG library https://github.com/arminbiere/aiger.
+
+The addition is a utility called aigxor for XOR all the outputs of an AIGER file.
+
+-------------------------------------------------------------------------------
+
 AIGER is a format, library and set of utilities for And-Inverter Graphs (AIGs).
 For up-to-date version and more information see 'http://fmv.jku.at/aiger'.
 
@@ -55,6 +61,7 @@ used in unrolling sequential models in 'aigunroll'.
     aigtoblif  translate AIG into BLIF
     aigtodot   visualizer for AIGs using 'dot' format
     aigtosmv   translate sequential AIG to SMV format
+    aigxor     XOR of all outputs
     andtoaig   translate file of AND gates into AIG
     aigunroll  time frame expansion for bmc (previously called 'aigbmc')
     bliftoaig  translate flat BLIF model into AIG
