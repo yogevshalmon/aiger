@@ -1,6 +1,6 @@
 This repository was forked from Armin AIG library https://github.com/arminbiere/aiger.
 
-The addition is a utility called aigxor for XOR all the outputs of an AIGER file.
+The addition is a utility called aigxor for XOR all the outputs of an AIGER model.
 
 -------------------------------------------------------------------------------
 
